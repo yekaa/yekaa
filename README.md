@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yekaa
-- 👀 I’m interested in ...sex and programming
+- 👀 I’m interested in .. programming
 - 🌱 I’m currently learning ...polite python and scala
 - 💞️ I’m looking to collaborate on ... police
 - 📫 How to reach me ...contact
